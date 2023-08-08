@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.logo{
+    border: 1px solid blue;
+}
+
+.upper-nav{
+    border: 1px solid red;
+}
+
+body{
+    background-color: rgb(41, 18, 63);
+}
